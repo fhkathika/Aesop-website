@@ -40,24 +40,14 @@ export default function Footer() {
     <Box >Support</Box>
     <Box >Privacy policy</Box>
 </Grid>
-<Grid item x={12} sm={4}>
-    <Box borderBottom={1}>About</Box>
-    <Box >Contact</Box>
-    <Box >Support</Box>
-    <Box >Privacy policy</Box>
-</Grid>
+
 <Grid item x={12} sm={4}>
     <Box borderBottom={1}>Social Media</Box>
     <Box  >Login</Box>
     <Box >Register</Box>
     <Box >Messages</Box>
 </Grid>
-<Grid item x={12} sm={4}>
-    <Box borderBottom={1}>Messages</Box>
-    <Box >History</Box>
-    <Box >Support</Box>
-    <Box >Privacy policy</Box>
-</Grid>
+
 </Grid>
 
 <hr />
