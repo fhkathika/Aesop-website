@@ -1,0 +1,47 @@
+
+
+.blog-style{
+  width: 100%;
+  margin: auto;
+
+}
+.blog1-row{
+    padding-top:5% ;
+  width: '100%';
+  margin: auto;
+
+text-align: start;
+margin-left: 3%;
+    
+}
+.blog1-text{
+  
+}
+
+.img1{
+  width:100%;
+  margin-left:12px
+}
+.discover-link-style{
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    padding: 3% ;
+    
+}
+.discover-link-style:hover{
+    color: white;
+    background-color: #333;
+}
+ .arrow-img{
+    color: gray;
+    width: auto;
+  
+}
+@media only screen and (max-width: 992px) {
+   
+    .img1{
+        margin-top: 20px;
+        margin-left: auto;
+    }
+}

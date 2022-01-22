@@ -1,0 +1,31 @@
+.video1 {
+
+    width: 100%;
+margin-right: 12px;
+background: #000;
+    }
+    .video-col{
+    
+        background: #000;
+    }
+    .blog2-row{
+        padding-top:5% ;
+      width: '100%';
+      margin: auto;
+    
+    text-align: start;
+    margin-left: 3%;
+        
+    }
+    .blog2-style{
+        width: 100%;
+      
+      
+      }
+      .blog2-text{
+      background: #000;
+          width: auto;
+      }
+      .video1{
+          margin-left: 0px;
+      }
