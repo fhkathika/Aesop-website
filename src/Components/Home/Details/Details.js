@@ -31,7 +31,7 @@ const Details = (props) => {
       <td>{id}</td>
       <td>{title}</td>
       <td>{status}</td>
-      <td>userId{userId}</td>
+   
       
       <Button  onClick={() => props.handleDetail(id,userId,title)
 } style={{border:'1px solid gray',color:'black',margin:'10px'}}
